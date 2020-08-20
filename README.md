@@ -1,5 +1,8 @@
-### Currently developing on media and associated projects. 👋 
+### Hello there👋 I'm hankyo
+- 🔭Currently developing on Media Technology and associated projects.
+- 🌐Visit my [Tech Blog](https://hankyojeong.github.io/). There are many interesting posts.
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=hankyojeong)
 <!--
 **hankyojeong/hankyojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
