@@ -1,6 +1,6 @@
 ### Hello there👋 I'm hankyo
-- 🔭Currently developing on Media Technology and associated projects.
-- 🌐Visit my [Tech Blog](https://hankyojeong.github.io/). There are many interesting posts.
+- 🔭 Currently developing on Media Technology and associated projects.
+- 🌐 Visit my [Tech Blog](https://hankyojeong.github.io/). There are many interesting posts.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=hankyojeong)
 <!--
