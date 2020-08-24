@@ -3,6 +3,8 @@
 - 🌐 Visit my [Tech Blog](https://hankyojeong.github.io/). There are many interesting posts.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=hankyojeong)
+
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankyojeong&layout=compact)](https://github.com/hankyojeong/github-readme-stats)
 <!--
 **hankyojeong/hankyojeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
